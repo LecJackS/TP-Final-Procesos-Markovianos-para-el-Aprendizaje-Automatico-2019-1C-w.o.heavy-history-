@@ -9,7 +9,11 @@ Continues from here: https://github.com/LecJackS/Procesos-Markovianos-Para-el-Ap
 ### Installation
 
     git clone this-repo
+    cd this-repo
+    jupyter notebook
     
+### Requires
+
     conda create --name myenv
     conda activate myenv
     
@@ -20,7 +24,7 @@ Continues from here: https://github.com/LecJackS/Procesos-Markovianos-Para-el-Ap
 Other systems: https://pytorch.org/get-started/locally/
 
     # Other needed packages
-    conda install numpy matplotlib tensorboard
+    conda install numpy matplotlib jupyter tensorboard
     conda install -c conda-forge opencv
     pip install gym
     
