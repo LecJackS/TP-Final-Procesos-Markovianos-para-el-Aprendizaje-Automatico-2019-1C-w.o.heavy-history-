@@ -49,7 +49,9 @@ To see pretty loss plots (needs tensorboard, but not tensorflow)
      Basically all the action is in the 2nd one, so you may want to pay attention to:
      
      *train.py* and *process.py* (heavely commented)
+     
      https://github.com/LecJackS/TP-Final-Procesos-Markovianos-para-el-Aprendizaje-Automatico-2019-1C-w.o.heavy-history-/blob/master/gym_pacman/train.py
+     
      https://github.com/LecJackS/TP-Final-Procesos-Markovianos-para-el-Aprendizaje-Automatico-2019-1C-w.o.heavy-history-/blob/master/gym_pacman/src/process.py
      
      *GraphicsUtils.py* for doing something more clever with the non-optional rendering of the game, 16 windows can be a lot! (right now I moved them 600 pixels) to the left of the screen)
