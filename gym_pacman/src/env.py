@@ -1,8 +1,3 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
-
-#import gym_super_mario_bros
 import gym
 import gym_pacman
 

@@ -1,7 +1,3 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
-
 import torch
 
 class GlobalAdam(torch.optim.Adam):
